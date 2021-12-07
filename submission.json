@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "remoooonwoods/180a-finalcode:latest",
+    "build-script": "python3 run.py test"
+}
